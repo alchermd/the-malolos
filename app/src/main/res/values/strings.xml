@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">The Malolos</string>
+    <string name="main_activity_title">The Malolos</string>
+    <string name="malls_button_text">Malls</string>
+    <string name="parks_button_text">Parks</string>
+    <string name="drinks_button_text">Drinks</string>
+    <string name="attractions_button_text">Attractions</string>
+    <string name="parks_icon_content_description">Parks Icon</string>
+    <string name="malls_icon_content_description">Malls Icon</string>
+    <string name="drinks_icon_content_description">Drinks Icon</string>
+    <string name="attractions_icon_content_description">Attractions Icon</string>
 </resources>
