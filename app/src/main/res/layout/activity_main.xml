@@ -21,6 +21,7 @@
             android:textStyle="bold" />
 
         <LinearLayout
+            android:id="@+id/parks_linear_Layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
@@ -45,6 +46,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/drinks_linear_Layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
@@ -69,6 +71,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/malls_linear_Layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
@@ -93,6 +96,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/attractions_linear_Layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
